@@ -1,0 +1,4 @@
+<h1> Description of program </h1>
+
+<p>The elvator consist of 5 floors, which each one have 7 buttoms. Pushing buttoms from 1-5 save inforamtion about how many people we wanna respawn to each floor. For instance we push buttom number 2 twice on the first floor - we create in memory 2 people that want to go on second floor. The buttom ''>'' is buttom thanks to it we can move elevator. When we push it on the floor where presently the elevator is located on, and then push buttom from 1 to 5, the elevator will go on the floor chose by user. Each floor has also pusching buttom ''+1'' wchich spawn the template of people on the chosen floor. Program also contains counter on the top, wchich presently inform about numer of people inside the elevator and actual lifting capacity.</p>
+![Screenshot](zrzut ekranu.png)
